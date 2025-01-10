@@ -1,0 +1,40 @@
+<s12:Envelope xmlns:s12="http://www.w3.org/2003/05/soap-envelope">
+  <s12:Header>
+    <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+      <wsse:BinarySecurityToken xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" wsu:Id="Ga3de58ac-9a70-44e5-a8b8-e4e742ab4db7" wsse:EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary" wsse:ValueType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-x509-token-profile-1.0#X509v3">MIIFvjCCA6agAwIBAgIQFi1fcxY5mwYBQ43s/dJDyTANBgkqhkiG9w0BAQsFADBrMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQT3BlblBFUFBPTCBBSVNCTDEWMBQGA1UECxMNRk9SIFRFU1QgT05MWTEpMCcGA1UEAxMgUEVQUE9MIEFDQ0VTUyBQT0lOVCBURVNUIENBIC0gRzIwHhcNMjMwOTA1MDAwMDAwWhcNMjUwODI1MjM1OTU5WjBLMQswCQYDVQQGEwJCRTEPMA0GA1UECgwGRCBTb2Z0MRcwFQYDVQQLDA5QRVBQT0wgVEVTVCBBUDESMBAGA1UEAwwJUEJFMDAwNTk2MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxTAAxHHvuVMuFtfOEkvDuJ6R448v8+Jj8Hcfod81rX1QXIT6QnbKVlnI9+5jnDacfXm56X/XDhDiZPkDC9PNdf3OcCNHQeXd/ed6+hgqSUKfu96Hoz9TsiNpViWw+s61WztHVbPWzOmvGjnlep3mLv5A0VUcFA6lcuWlR1/8uQBqNqts/jFZsXgfSwEO1qIlECodflYnWE48Onrh4aJBtJpq/g6sBQgI8tDRAJNihhjzGJ6sVvMEJESs5RQmhj1DgQj9I3YHE4xJkNX9vAS2H4qjI85twMgsV3TWz9t13WQltYwWBWb4Whsutj23Kc1rXLvy+1p/YKkKNOxV1/NB0wIDAQABo4IBfDCCAXgwDAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCA6gwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwIwHQYDVR0OBBYEFM8J7cAWcknEgztUfGJgWCMdeiCGMF0GA1UdHwRWMFQwUqBQoE6GTGh0dHA6Ly9wa2ktY3JsLnN5bWF1dGguY29tL2NhXzZhOTM3NzM0YTM5M2EwODA1YmYzM2NkYThiMzMxMDkzL0xhdGVzdENSTC5jcmwwNwYIKwYBBQUHAQEEKzApMCcGCCsGAQUFBzABhhtodHRwOi8vcGtpLW9jc3Auc3ltYXV0aC5jb20wHwYDVR0jBBgwFoAUa29LtvE3uis8fxjNuiuyuXwqN+swLQYKYIZIAYb4RQEQAwQfMB0GE2CGSAGG+EUBEAECAwEBgamQ4QMWBjk1NzYwODA5BgpghkgBhvhFARAFBCswKQIBABYkYUhSMGNITTZMeTl3YTJrdGNtRXVjM2x0WVhWMGFDNWpiMjA9MA0GCSqGSIb3DQEBCwUAA4ICAQCdpnLFWJ6T25pBIN48zY6z300Z6/anPG6TXd0Wp0yNt5kcjhM3Bccx34BMj/QxY7RgBPtKyZq9XzNEqEYwM9o4rMm9ZS120oVfEvCkNzVfYozrJjwx0nvBKiNPXtjhj0VptDRj3Dj0vOeg8Xtz0PWvkmuXCFjJy5phOS0nJVbDeZwDcN0QegosGf2Lyt7ivT+7THlgOfr7rKQqkljR0gLeoCdjOI9ink7ls7NWOTmk14yXRrPwVFRbKSgLgOcaLcokiTJKj759nSyPKGuRm/+8+ir5EY6kLi+1vil++4QYQDEu7ntMg2y+y3XO0Mbm+CBeOSX+9YEnNl1Tpvt8Xklt3RgHLNStER2iZg606yZwCh7onmkPR4e0PJYDPY1yQQNLzhpPm861ZGBruzGWCtV50qDIDe4Uiz8EIrEfWLs8KBqPXlXBWOcB7qH0ZEKpCxsi0FfX6O3tr6sHSb8bgVrR2UM3a1+3cRl1H1t64D6iXxR91WqxgnqZqhZ6480GNHjOIrWqHAGzXjOG2iHjMOJMldT5iAYVMWVuqEx45moagwPTrKMTRipDxxPImhFDT0VzaHIW8YyTDzyImIpf/1/3jao3MDdp2Qhx9r8b4NJ5gMCu5bAsD2Hq2HPdRB0dtC7SPuQPah6+2JGsoPydaUGL7OXxW5e8dvco30AvbiRPUQ==</wsse:BinarySecurityToken>
+      <wsse:BinarySecurityToken xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" wsu:Id="X509-0ba4bbc2-f06e-410e-a613-4cc582ad6e84" wsse:EncodingType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-soap-message-security-1.0#Base64Binary" wsse:ValueType="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-x509-token-profile-1.0#X509v3">MIIFwjCCA6qgAwIBAgIQYwzaxgiKwLWaZ5jvucGIOzANBgkqhkiG9w0BAQsFADBrMQswCQYDVQQGEwJCRTEZMBcGA1UEChMQT3BlblBFUFBPTCBBSVNCTDEWMBQGA1UECxMNRk9SIFRFU1QgT05MWTEpMCcGA1UEAxMgUEVQUE9MIEFDQ0VTUyBQT0lOVCBURVNUIENBIC0gRzIwHhcNMjMwMzE2MDAwMDAwWhcNMjUwMzA1MjM1OTU5WjBPMQswCQYDVQQGEwJCRTETMBEGA1UECgwKT3BlblBlcHBvbDEXMBUGA1UECwwOUEVQUE9MIFRFU1QgQVAxEjAQBgNVBAMMCVBHRDAwMDAwNTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALV+4GxZZnlSXJfYBZWhUr+f+v/8hn6xmmNP5nTeAMDgRWPgX1I1WY8n4cljvtzcpsSfF7X4XjQEqyIhZReQIBTzIkfHOijsKt8aowaf1e9QFSNV/vl/LxOj7maDgTPVuNuVKDz/bG1+G7WqFxEVr0/YJrdYA0WEQauwebMpkE0t7/14zSlqgj1CH80/85/gLyeKFYjCIzu48dUP6XBF1dTNJo6ryPobqbnCe1UyK6me/b5S8M95yF+epinLc5CnuL9v5eyE5gF1v6d/sErDgR5UxNW9Wl+wNTFpPyIllu0Y1xe91KuIbg2G/VMZ8wT9kzgxBuo7oxMvZ7WLqp46WOUCAwEAAaOCAXwwggF4MAwGA1UdEwEB/wQCMAAwDgYDVR0PAQH/BAQDAgOoMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMCMB0GA1UdDgQWBBTtXt6B9vIgowdkMr2sfEG7Wcj0vjBdBgNVHR8EVjBUMFKgUKBOhkxodHRwOi8vcGtpLWNybC5zeW1hdXRoLmNvbS9jYV82YTkzNzczNGEzOTNhMDgwNWJmMzNjZGE4YjMzMTA5My9MYXRlc3RDUkwuY3JsMDcGCCsGAQUFBwEBBCswKTAnBggrBgEFBQcwAYYbaHR0cDovL3BraS1vY3NwLnN5bWF1dGguY29tMB8GA1UdIwQYMBaAFGtvS7bxN7orPH8Yzborsrl8KjfrMC0GCmCGSAGG+EUBEAMEHzAdBhNghkgBhvhFARABAgMBAYGpkOEDFgY5NTc2MDgwOQYKYIZIAYb4RQEQBQQrMCkCAQAWJGFIUjBjSE02THk5d2Eya3RjbUV1YzNsdFlYVjBhQzVqYjIwPTANBgkqhkiG9w0BAQsFAAOCAgEAnsARRoJXUKqtYrrPNW6SnnP1Ta2AgR7qOBnIaLtGnO0+VOAwUKc+zSVsMF6psSoGUX97KX4RvcK2liBjpfTgS+9XyEn8YTlhEScHUp3rcbwiAxFspm+MqkIvfJXKt1TqxC+zJ4pyOXiDGnrgaBYdhNrtoeH1K6VSJr06cqsD29UftY+0+fsvvdWez7YCZ05kyH88iqTeolVnYQ/PNFbQN2eo+DfUgsP/CJl3MAKrbs8xZ2/AeZBUDDg0XrOvaQ8ONEw9Y6jtdAA2/asEAij0R6G++QcuZAhgRkSr8kT1cySxHxvXuxontypHRXq63siGG8txfeVPwJhrhceg5TDz8zdl90yGGhy4LQ98lHDjaEBYq5XwSNNVnS2OjOJv6fTzuF+cv+PMVu8yzq0CQWhkqS6MRySsUrLmu9hkUP1nNNXt+6kr6qr6d2bkfXzOO9ugRjcorQO/hOohGerUvbfE1GNuB/Rvw3eKL2/HDekBZNFcx5yOZJPOJ4Rjqf1UI4Hxos2GvydGPlFDNN8DSDTT0PEkmEwwqx5ToH4QWcx9fyL2hjEVZh91WPvnpu3mJi7YYT7Vk57zY/jtL4O/43tvHuIqxcOIxxT2qzlLg0yuUfrr4fUSkZ2l6D/kuUNsPkkrJO3fGQjkelYqOxxF8SiNq97BqcCKRPt/OT6lvf5xlUs=</wsse:BinarySecurityToken>
+    </wsse:Security>
+    <eb:Messaging xmlns:eb="http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/ns/core/200704/">
+      <Attrs>
+        <Name></Name>
+        <Value>true</Value>
+      </Attrs>
+      <eb:UserMessage>
+        <eb:MessageInfo>
+          <eb:Timestamp>2024-12-26T15:03:04.0737378Z</eb:Timestamp>
+          <eb:MessageId>1234567890</eb:MessageId>
+        </eb:MessageInfo>
+        <eb:PartyInfo>
+          <eb:From>
+            <eb:PartyId eb:type="urn:oasis:names:tc:ebcore:partyid-type:unregistered">testFrom</eb:PartyId>
+            <eb:Role>http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/ns/core/200704/initiator</eb:Role>
+          </eb:From>
+          <eb:To>
+            <eb:PartyId eb:type="urn:oasis:names:tc:ebcore:partyid-type:unregistered">testTo</eb:PartyId>
+            <eb:Role>http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/ns/core/200704/responder</eb:Role>
+          </eb:To>
+        </eb:PartyInfo>
+        <eb:CollaborationInfo>
+          <eb:Service eb:type="http://docs.oasis-open.org/ebxml-msg/ebms/v3.0/ns/core/200704/service">testService</eb:Service>
+          <eb:Action>testAction</eb:Action>
+          <eb:ConversationId></eb:ConversationId>
+        </eb:CollaborationInfo>
+        <eb:MessageProperties>
+          <eb:Property eb:name="testProperty" eb:type="">testValue</eb:Property>
+          <eb:Property eb:name="testProperty2" eb:type="">testValue2</eb:Property>
+        </eb:MessageProperties>
+      </eb:UserMessage>
+    </eb:Messaging>
+  </s12:Header>
+  <s12:Body></s12:Body>
+</s12:Envelope>
