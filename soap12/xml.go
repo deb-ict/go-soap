@@ -15,18 +15,21 @@ type Envelope struct {
 	Attrs   []*xml.Attr `xml:",any,attr"`
 	Header  *Header     `xml:"http://www.w3.org/2003/05/soap-envelope Header"`
 	Body    *Body       `xml:"http://www.w3.org/2003/05/soap-envelope Body"`
+	RawXml  []byte      `xml:",innerxml"`
 }
 
 type Header struct {
 	XMLName xml.Name    `xml:"http://www.w3.org/2003/05/soap-envelope Header"`
 	Attrs   []*xml.Attr `xml:",any,attr"`
 	Content []any       `xml:",any,omitempty"`
+	RawXml  []byte      `xml:",innerxml"`
 }
 
 type Body struct {
 	XMLName xml.Name    `xml:"http://www.w3.org/2003/05/soap-envelope Body"`
 	Attrs   []*xml.Attr `xml:",any,attr"`
 	Content []any       `xml:",any,omitempty"`
+	RawXml  []byte      `xml:",innerxml"`
 }
 
 type Fault struct {
