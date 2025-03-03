@@ -6,5 +6,5 @@ Only the latest version is supported.
 
 ## Reporting a Vulnerability
 
-Please use [GitHub Private Vulnerability Reporting Tool](https://github.com/deb-ict/go-project/security/advisories/new) to report security related issues.
+Please use [GitHub Private Vulnerability Reporting Tool](https://github.com/deb-ict/go-soap/security/advisories/new) to report security related issues.
 
